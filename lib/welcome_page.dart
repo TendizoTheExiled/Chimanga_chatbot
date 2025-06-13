@@ -37,9 +37,7 @@ class WelcomePage extends StatelessWidget {
                       color: const Color.fromARGB(255, 120, 219, 125),
                     ),
                   ),
-                  SizedBox(height: 30),
-                  Center(child: Image.asset('assets/maize.png', height: 200)),
-                  SizedBox(height: 40),
+                  SizedBox(height: 16),
                   SizedBox(
                     width: double.infinity,
                     child: Text(
